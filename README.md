@@ -1,8 +1,18 @@
-# React + Vite
+**Introduction about the code:**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Example 3 used in below notes-link
 
-Currently, two official plugins are available:
+https://coursecs.wordpress.com/courses/advance-web-development/create-application-with-multiple-components/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+**How to Run:**
+
+- Open VS code terminal and type command
+
+		npm install
+
+- Above command will install all neccessary packages and create node_modules folder in your downloaded code.
+
+- Now run below command to run the code
+
+		npm run dev
